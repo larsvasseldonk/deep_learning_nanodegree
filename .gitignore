@@ -51,3 +51,6 @@ docs/_build/
 
 # Python notebook checkpoints
 .ipynb_checkpoints
+
+# Pytorch checkpoints
+*.pt
